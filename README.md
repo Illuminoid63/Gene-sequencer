@@ -1,4 +1,4 @@
 # Gene-sequencer
-This is a project I made as a Freshman and I first learned to code in C++. 
+This is an old project that I did when I first started to learn to code.
 
-I have no idea what it does anymore
+Not sure what it does anymore.
